@@ -38,7 +38,6 @@ npx tailwindcss init -p
 npm install react react-dom
 npm install react-router-dom
 npm install axios
-npm install -D tailwindcss postcss autoprefixer
 ```
 •	Configura las variables de entorno (`.env`) en el backend:
 ```
